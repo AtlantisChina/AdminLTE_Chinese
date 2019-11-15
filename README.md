@@ -1,6 +1,6 @@
 # AdminLTE_Chinese（AdminLTE 汉化版）
 
- [AdminLTE官方网址](https://adminlte.io/)。
+ [AdminLTE官方网址](https://adminlte.io/)
 
  [AdminLTEGitHub下载(英文)](https://github.com/ColorlibHQ/AdminLTE)
 
